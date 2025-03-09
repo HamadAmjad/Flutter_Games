@@ -1,16 +1,52 @@
-# fluttergames
+# 🎮 Flutter Games App
 
-A new Flutter project.
+## 📌 About the Project
+This is a **Flutter-based Games App** that currently features **five exciting games**, providing fun and entertainment for users. More games can be added in future updates to expand the experience. The app is built using Flutter and Firebase, ensuring smooth gameplay and real-time data handling.
 
-## Getting Started
+## 🕹️ Available Games
+The app currently includes the following games:
 
-This project is a starting point for a Flutter application.
+1. **Wordle** - A word-guessing game where players must find the hidden word in limited attempts.
+2. **Word Scramble** - Unscramble letters to form meaningful words.
+3. **Tetris** - The classic block-stacking puzzle game.
+4. **Tic Tac Toe** - A two-player strategy game to get three in a row.
+5. **Memory Game** - Flip cards and match pairs to test memory skills.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Compatibility
+- The app is **optimized for mobile devices** only.
+- UI **may not be responsive** on tablets or larger screens.
+- Works best on **Android & iOS smartphones**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔧 Technologies Used
+- **Flutter** (Dart)
+- **Firebase Realtime Database** (for storing game progress and scores)
+- **SharedPreferences** (for local storage of user data)
+- **Custom Animations & UI Design**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+| Wordle | Word Scramble | Tetris |
+|--------|--------------|--------|
+| ![Wordle](https://github.com/user-attachments/assets/wordle_image) | ![Word Scramble](https://github.com/user-attachments/assets/word_scramble_image) | ![Tetris](https://github.com/user-attachments/assets/tetris_image) |
+
+| Tic Tac Toe | Memory Game | |
+|-------------|------------|---|
+| ![Tic Tac Toe](https://github.com/user-attachments/assets/tic_tac_toe_image) | ![Memory Game](https://github.com/user-attachments/assets/memory_game_image) | |
+
+## 🚀 Features
+✔️ Engaging and interactive gameplay 🎯  
+✔️ Smooth animations and intuitive UI ✨  
+✔️ High-score tracking for competitive play 🏆  
+✔️ Firebase integration for data storage ☁️  
+✔️ Easy to expand with new games 🔄  
+
+## 🔄 Future Updates
+- Adding more games to the collection.
+- Improving UI responsiveness for different screen sizes.
+- Implementing multiplayer support for Tic Tac Toe.
+
+## 📩 Developer Contact
+📌 **Developer:** Hamad Amjad  
+📧 **Email:** hamadamjad024@gmail.com
+
+Feel free to contribute, report issues, or suggest improvements! 🚀
+
